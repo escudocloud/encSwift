@@ -1,0 +1,9 @@
+[submodule "devstack-vagrant-enc"]
+	path = devstack-vagrant-enc
+	url = git@github.com:escudocloud/devstack-vagrant-enc.git
+[submodule "encswift_server"]
+	path = encswift_server
+	url = git@github.com:escudocloud/encswift_server.git
+[submodule "django_proxy_swift"]
+	path = django_proxy_swift
+	url = git@github.com:escudocloud/django_proxy_swift.git
